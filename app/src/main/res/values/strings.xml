@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ListViewapp</string>
+    <string name="image_view_desc">image view desc</string>
 </resources>
